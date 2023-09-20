@@ -1,10 +1,10 @@
 {
-  "name": "react-native-countdown-component",
-  "version": "2.7.1",
+  "name": "meemup-react-native-countdown",
+  "version": "0.0.1",
   "description": "React Native CountDown Component",
   "repository": {
     "type": "git",
-    "url": "https://github.com/talalmajali/react-native-countdown-component.git"
+    "url": "https://github.com/tmbax0098/meemup-react-native-countdown"
   },
   "keywords": [
     "react-native",
@@ -21,9 +21,9 @@
     "name": "Talal Majali",
     "email": "t.majali93@gmail.com"
   },
-  "homepage": "https://github.com/talalmajali/react-native-countdown-component",
+  "homepage": "https://github.com/tmbax0098/meemup-react-native-countdown",
   "bugs": {
-    "url": "https://github.com/talalmajali/react-native-countdown-component/issues"
+    "url": "https://github.com/tmbax0098/meemup-react-native-countdown/issues"
   },
   "dependencies": {
     "lodash": "^4.17.13",

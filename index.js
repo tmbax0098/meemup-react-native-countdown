@@ -151,7 +151,7 @@ class CountDown extends React.Component {
       <View
         style={[
           styles.digitCont,
-          { padding: 16 },
+          // { padding: 16 },
           // {width: size * 2.3, height: size * 2.6},
           digitStyle,
         ]}
